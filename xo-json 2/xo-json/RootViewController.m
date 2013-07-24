@@ -19,6 +19,7 @@
     NSLog(@"Test1");
     NSLog(@"Test2");
     NSLog(@"Test3");
+    NSLog(@"Test4");
 }
 
 - (void)viewWillAppear:(BOOL)animated
