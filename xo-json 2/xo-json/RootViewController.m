@@ -16,6 +16,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    NSLog(@"Test1");
 }
 
 - (void)viewWillAppear:(BOOL)animated
